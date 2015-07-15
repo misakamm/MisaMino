@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tspin", "tetris_ai.vcxproj", "{1063E110-F488-4ADA-8632-AB6E53E8BEDD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dllai", "..\dllai\dllai.vcxproj", "{AFFA8B7C-EAAA-46F7-92B2-1A1F422B1EF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		XP_Release|Win32 = XP_Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1063E110-F488-4ADA-8632-AB6E53E8BEDD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1063E110-F488-4ADA-8632-AB6E53E8BEDD}.Debug|Win32.Build.0 = Debug|Win32
+		{1063E110-F488-4ADA-8632-AB6E53E8BEDD}.Release|Win32.ActiveCfg = Release|Win32
+		{1063E110-F488-4ADA-8632-AB6E53E8BEDD}.Release|Win32.Build.0 = Release|Win32
+		{1063E110-F488-4ADA-8632-AB6E53E8BEDD}.XP_Release|Win32.ActiveCfg = XP_Release|Win32
+		{1063E110-F488-4ADA-8632-AB6E53E8BEDD}.XP_Release|Win32.Build.0 = XP_Release|Win32
+		{AFFA8B7C-EAAA-46F7-92B2-1A1F422B1EF3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AFFA8B7C-EAAA-46F7-92B2-1A1F422B1EF3}.Debug|Win32.Build.0 = Debug|Win32
+		{AFFA8B7C-EAAA-46F7-92B2-1A1F422B1EF3}.Release|Win32.ActiveCfg = Release|Win32
+		{AFFA8B7C-EAAA-46F7-92B2-1A1F422B1EF3}.Release|Win32.Build.0 = Release|Win32
+		{AFFA8B7C-EAAA-46F7-92B2-1A1F422B1EF3}.XP_Release|Win32.ActiveCfg = XP_Release|Win32
+		{AFFA8B7C-EAAA-46F7-92B2-1A1F422B1EF3}.XP_Release|Win32.Build.0 = XP_Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

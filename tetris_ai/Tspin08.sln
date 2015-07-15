@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tspin08", "Tspin08.vcproj", "{5F5C2F45-C92B-4EAA-A48C-3325B390CA29}"
+	ProjectSection(ProjectDependencies) = postProject
+		{90396E54-F76B-4A1D-9291-720FDA200388} = {90396E54-F76B-4A1D-9291-720FDA200388}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dllai", "..\dllai\dllai.vcproj", "{90396E54-F76B-4A1D-9291-720FDA200388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F5C2F45-C92B-4EAA-A48C-3325B390CA29}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5F5C2F45-C92B-4EAA-A48C-3325B390CA29}.Debug|Win32.Build.0 = Debug|Win32
+		{5F5C2F45-C92B-4EAA-A48C-3325B390CA29}.Release|Win32.ActiveCfg = Release|Win32
+		{5F5C2F45-C92B-4EAA-A48C-3325B390CA29}.Release|Win32.Build.0 = Release|Win32
+		{90396E54-F76B-4A1D-9291-720FDA200388}.Debug|Win32.ActiveCfg = Debug|Win32
+		{90396E54-F76B-4A1D-9291-720FDA200388}.Debug|Win32.Build.0 = Debug|Win32
+		{90396E54-F76B-4A1D-9291-720FDA200388}.Release|Win32.ActiveCfg = Release|Win32
+		{90396E54-F76B-4A1D-9291-720FDA200388}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
